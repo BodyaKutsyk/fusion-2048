@@ -128,7 +128,7 @@ body {
 
   &__game {
     position: absolute;
-    top: 449px;
+    top: 119px;
     height: 350px;
     width: 350px;
     display: flex;
@@ -253,6 +253,7 @@ h1 {
 }
 
 .container {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
